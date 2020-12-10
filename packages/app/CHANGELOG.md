@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.0.0-dev.3](https://github.com/davikawasaki/lerna-monorepo-mr/compare/app@0.0.0-dev.2...app@0.0.0-dev.3) (2020-12-10)
+
+
+### Features
+
+* **app:** adapting greetings after lib update ([c50b887](https://github.com/davikawasaki/lerna-monorepo-mr/commit/c50b88795524fe37badeee163fa06028d9916265))
+
+
+
+
+
 # [0.0.0-dev.2](https://github.com/davikawasaki/lerna-monorepo-mr/compare/app@0.0.0-dev.1...app@0.0.0-dev.2) (2020-12-10)
 
 
